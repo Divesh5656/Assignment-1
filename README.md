@@ -2,6 +2,8 @@
 
 I have chosen to do a Portfolio website for my project because portfolios will help keep and display collections of my work representing a selection of performance for others to view easily. A portfolio may be containing my best pieces and my evaluation of the strengths and weaknesses of the pieces.
 
+https://divesh5656.github.io/Assignment-1/#three
+
 ## Design Process
 
 Some insights about my design process, focusing on my future employers and clients view, it is for the future employers and clients of mine to have a easy and neat read about me, my skills and my past works i have done and my project is the best way to help them because it provides a convenient way for potential clients to view my work while also allowing myself to expand on my skills and services as i move up. But the ultimate purpose of my portfolio website is to provide a way for me to land more clients, whether that means freelance work, more clients for my agency or employment at a company.
